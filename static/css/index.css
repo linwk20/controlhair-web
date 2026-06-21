@@ -61,6 +61,7 @@ body {
     color: #555;
     width: fit-content;
     font-weight: bold;
+    margin: 0.35rem auto 0;
 }
 
 .publication-awards {
